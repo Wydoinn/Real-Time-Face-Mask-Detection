@@ -15,7 +15,6 @@ Face mask detection system using machine learning, specifically a Convolutional 
 - Tkinter
 - ImUtils
 - OpenCV-Python
-- Scipy
 
 ***Additional*** - Download and Install CUDA and cuDNN for better performance in tensorflow training.
 
